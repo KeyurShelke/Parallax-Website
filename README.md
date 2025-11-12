@@ -5,4 +5,4 @@ A **Parallax Website** is a type of website design that uses scrolling effects t
 
 
 
-👉 Live Link ➡️ https://lnkd.in/df5QzA_s
+👉 Live Link ➡️ https://parallaxwebsitecss.netlify.app/
